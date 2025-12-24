@@ -38,22 +38,23 @@ It is a beginner-to-intermediate level project that demonstrates practical usage
 ## 📂 Project Structure
 
 ----
-Password_Generator_React/
-│
-├── src/ # Source files
-│ ├── components/ # Reusable components
-│ │ └── Password.jsx # Password generator component
-│ │
-│ ├── App.jsx # Main application component
-│ ├── main.jsx # React entry point
-│ └── index.css # Global styles
-│
-├── public/ # Public assets
-│ └── index.html
-│
-├── package.json # Project dependencies & scripts
-├── README.md # Project documentation
-└── vite.config.js # Vite configuration
+
+- Password_Generator_React/
+-│
+-├── src/ # Source files
+-│ ├── components/ # Reusable components
+-│ │ └── Password.jsx # Password generator component
+-│ │
+-│ ├── App.jsx # Main application component
+-│ ├── main.jsx # React entry point
+-│ └── index.css # Global styles
+-│
+-├── public/ # Public assets
+-│ └── index.html
+-│
+-├── package.json # Project dependencies & scripts
+-├── README.md # Project documentation
+-└── vite.config.js # Vite configuration
 
 ---
 
@@ -81,7 +82,7 @@ Password_Generator_React/
 
 ---
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Understanding React functional components
 
@@ -97,16 +98,16 @@ Password_Generator_React/
 
 -----
 
-🤝 Contribution
+## 🤝 Contribution
 
 - Contributions are welcome!
 - Feel free to fork this repository, improve the project, and submit a pull request.
 
-📜 License
+## 📜 License
 
 - This project is open source and available under the MIT License.
 
-👤 Author
+## 👤 Author
 
 - Sikandar Afridi
 - Frontend Developer | React Learner
